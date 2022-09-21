@@ -1,0 +1,12 @@
+{
+  "name": "native-adapter",
+  "version": "1.0.0",
+  "description": "used to invoke native library(like c# DLL, compiled to *.node from c++, etc.) in nodejs runtime environment",
+  "scripts": {
+  },
+  "keywords": [
+    "native", "c#", "c++", "DLL", "nodejs", "edge-js"
+  ],
+  "author": "artoriasless",
+  "license": "MIT"
+}
